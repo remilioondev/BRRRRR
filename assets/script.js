@@ -8,9 +8,9 @@ const CONFIG = {
   dexscreenerUrl: "https://dexscreener.com/base/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX?embed=1&loadChartSettings=0&chartLeftToolbar=0&chartTheme=dark&theme=dark&chartStyle=0&chartType=usd&interval=15",
   // Enlaces sociales / compra
   buyUrl: "https://dexscreener.com/base/XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX",
-  twitterUrl: "https://twitter.com/",
-  telegramUrl: "https://t.me/",
-  websiteUrl: "https://brrr.money",
+  twitterUrl: "https://x.com/Based_BRRR",
+  telegramUrl: "https://t.me/MoneyprintergoBRR",
+  websiteUrl: "https://moneyprintergobrrr.store",
   supply: "1,000,000,000",
   taxes: "0/0"
 };
